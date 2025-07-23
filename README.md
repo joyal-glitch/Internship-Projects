@@ -59,5 +59,5 @@ Helped the sales team track regional performance and plan inventory distribution
 
 ---
 
-## 📁 Folder Structure
+
 
